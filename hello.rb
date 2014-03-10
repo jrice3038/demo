@@ -6,3 +6,4 @@ name = gets
 
 puts "hello, #{name}! You are #{word}!"
 puts "panda ,#{animal}! bonjour #{word}
+puts "fun, # {thing}
